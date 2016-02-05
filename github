@@ -23,4 +23,5 @@ Commands for github:
 
 4. To update OR sync the local files with website, type the following
 	git push
-	
+
+5. git pull command is used to sync the data from website to a folder in 	your system. Opposite of git push to be precise.	
