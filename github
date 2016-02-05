@@ -25,3 +25,4 @@ Commands for github:
 	git push
 
 5. git pull command is used to sync the data from website to a folder in 	your system. Opposite of git push to be precise.	
+6. git add -A OR git add . command will add all the files in the repository
