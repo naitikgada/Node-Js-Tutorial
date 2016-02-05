@@ -10,3 +10,17 @@ Create a new Repository
 Give it a name and description
 Assign permissions (for ex) who can see it Public/Private etc.....
 And then check the checkbox below which ensures that the current repository will be cloned on the user desktop as well.
+
+Commands for github:
+1. To Update Files from website and clone it to your computer:
+	Go to the Github.com, login and copy the clone URL
+	Now, enter the following command, git clone URL and enter
+
+2. To view the status of the git file i.e. all changes are in sync, type
+ git status in shell
+
+3. To commit the changes type git commit filename
+
+4. To update OR sync the local files with website, type the following
+	git push
+	
