@@ -1,0 +1,12 @@
+GITHUB: 
+Used for resource control.
+Can help in editing the same file by multiple perosns at the same time ,along with sync depending on the permissions assigned.
+Allows multiple people to work simultaneously on a same file and reduces conflicts and redundancies.
+Allows to merge changes done by different people.
+
+Steps:
+Go to Githubb
+Create a new Repository
+Give it a name and description
+Assign permissions (for ex) who can see it Public/Private etc.....
+And then check the checkbox below which ensures that the current repository will be cloned on the user desktop as well.
